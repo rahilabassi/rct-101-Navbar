@@ -1,0 +1,38 @@
+
+.nav{
+    background-color: #24252a;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.logo>h1{
+    font-size: larger;
+    color: aliceblue;
+    
+}
+.links{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+    gap: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.btn{
+    font-size: 13px;
+    border-radius: 30%;
+    height: 25px;
+    width: 100px;
+    margin-top: 17px;
+    color: aliceblue;
+    background-color: #0089a8;
+    cursor: pointer;
+    border: none;
+
+    
+}
